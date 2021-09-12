@@ -1,6 +1,6 @@
 # beer_api_digital_innovation_one-main
 
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<h2>Digital Innovation One: Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Foram apresentados os conceitos de testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja.Foram desenvolvidos testes unitários para validar o sistema de gerenciamento de estoques de cerveja, e também apresentados os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, foi também mostrado como desenvolver funcionalidades da API através da prática do TDD.
 
